@@ -1,0 +1,8 @@
+spring: 
+  application: 
+    name: GateWayV2
+    
+server:
+  port: 10082
+
+
